@@ -26,4 +26,4 @@ def scan_ports(host, start_port, end_port):
 
 # Example usage:
 target_host = input("Enter IP Address: ")  # Change this to any IP
-scan_ports(target_host, 20, 500)
+scan_ports(target_host, 20, 500) # Change this to desire Port Number Range
